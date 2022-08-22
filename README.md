@@ -1,51 +1,48 @@
-### Hello 👋
+### 👋 Hello, I'm Marcin
+I write code in these languages:<br>
+(expand for more details)
 
-I write code in these languages:
 <details>
   <summary>Python</summary>
 
   ### Repl.it
-  I created these in order to test how some functionality works in Python, namely:
-  1. [Function Decorators](https://replit.com/@MarcinJekot/function-decorators#main.py)
-  2. [Concurrent Futures](https://replit.com/@MarcinJekot/concurrent-futures#main.py)
-
-
-  <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@MarcinJekot/concurrent-futures?embed=true#main.py"></iframe>
+  I created these runnable examples while learning new functionality:
+  - [Function Decorators](https://replit.com/@MarcinJekot/function-decorators#main.py)
+  - [Concurrent Futures](https://replit.com/@MarcinJekot/concurrent-futures#main.py)
 </details>
 
 <details>
   <summary>Rust</summary>
 
-  A [Passwordless login using Zero-Knowledge Proofs](https://github.com/naartjie/zkp-auth).
-
-
-  When I was first learning Rust, I created a [Debugging Macro](https://github.com/naartjie/rust-belt) used to print variable name and value together. Kinda like using `f"{variable=}` in Python.
+  - [Passwordless Login](https://github.com/naartjie/zkp-auth) using Zero-Knowledge Proofs.
+  - [Debugging Macro](https://github.com/naartjie/rust-belt) I made when I was first learning about Macros in Rust.
 </details>
 
 <details>
   <summary>F#</summary>
 
-  [GraphQL Wrapper](https://github.com/naartjie/investec.graphql)
-  [WebRTC](https://github.com/naartjie/faRTC)
+  - [GraphQL Wrapper](https://github.com/naartjie/investec.graphql) for Investec Open Banking API
+  - [Browser Based Distributed System](https://github.com/naartjie/faRTC) using WebRTC for peer communication.
 </details>
 
 <details>
   <summary>OCaml</summary>
 
-  - [Oracle POS interface exposed via GraphQL](https://github.com/naartjie/micros-graphql)
-  - [Space Invaders (Reason ML)](https://github.com/naartjie/spaceinvad-re)
+  - [GraphQL Wrapper](https://github.com/naartjie/micros-graphql) for Oracle POS
+  - [Space Invaders](https://github.com/naartjie/spaceinvad-re) in ReasonML (a dialect of OCaml)
 </details>
 
 <details>
   <summary>JavaScript / TypeScript</summary>
 
-
+  - [Game of Life](https://github.com/naartjie/gameoflife.js) implementation I wrote when I was learning about functional programming in JavaScript.
+  - [Photography site](https://github.com/naartjie/mayo-photos) I made for my wife's portfolio, using Gatsby.js.
 </details>
 
 <details>
   <summary>Clojure</summary>
-
+  - Another [Photography portfolio](https://github.com/naartjie/hryciow-dot-com) site I made for my wife, this time using ClojureScript.
 
 </details>
 
-Sometimes I like to dabble in Cloud-Native, see this k8s/knative/Kafka [demo](https://github.com/naartjie/knative-kafka-demo)
+I also dabble with Cloud-Native, see this k8s/knative/Kafka [demo](https://github.com/naartjie/knative-kafka-demo) I made, for an example.
