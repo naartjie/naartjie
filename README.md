@@ -14,6 +14,7 @@ I write code in these languages:<br>
 <details>
   <summary>Rust</summary>
 
+  - [Peer-to-peer Handshake](https://github.com/naartjie/cometbft-handshake) implementation for the CometBFT blockchain consensus engine.
   - [Passwordless Login](https://github.com/naartjie/zkp-auth) using Zero-knowledge proofs.
   - [Debugging Macro](https://github.com/naartjie/rust-belt) I made when I was first learning about Macros in Rust.
 </details>
